@@ -1,0 +1,1 @@
+This an optional exercise under the Vagrant
